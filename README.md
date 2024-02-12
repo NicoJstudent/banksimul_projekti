@@ -1,4 +1,4 @@
-# re-upload identtinen kopio alkuperäisestä
+# Kevään 2022 Ohjelmistokehityksen sovellusprojekti BankSimul (re-upload)
 Alkuperäinen osoite:
 - https://github.com/banksimul-2023-22spo/group_10    (Private)
 
