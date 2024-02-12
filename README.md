@@ -1,11 +1,11 @@
 # re-upload identtinen kopio alkuperäisestä
 Alkuperäinen osoite:
-https://github.com/banksimul-2023-22spo/group_10    (Private)
+- https://github.com/banksimul-2023-22spo/group_10    (Private)
 
 Tekijöinä: 
-https://github.com/NicoJstudent
-https://github.com/EevaKR
-https://github.com/Jykakr
+- https://github.com/NicoJstudent
+- https://github.com/EevaKR
+- https://github.com/Jykakr
 
 
 # group_10
